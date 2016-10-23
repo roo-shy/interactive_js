@@ -18,3 +18,4 @@ var topic = document.getElementById("Id");
 
 ###Arrays
 var links = document.getElementByTagName('a');
+document.write(links[0]);
