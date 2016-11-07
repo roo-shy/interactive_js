@@ -5,3 +5,5 @@
 - [x] debugging
 - [x] data types
 - [x] operations and expressions
+- [x] arrays
+- [x] flow of control
