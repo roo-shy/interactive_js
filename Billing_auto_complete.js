@@ -9,7 +9,7 @@
         billZip.value = shipZip.value;
        }
        else {
-        billName.value = null;
-        billZip.value = null;
+        billName.value = " ";
+        billZip.value = " ";
        }
     }
